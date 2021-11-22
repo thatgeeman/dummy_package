@@ -1,9 +1,0 @@
-README.md
-setup.py
-dummy_package/__init__.py
-dummy_package/main.py
-dummy_package/utils.py
-dummy_package.egg-info/PKG-INFO
-dummy_package.egg-info/SOURCES.txt
-dummy_package.egg-info/dependency_links.txt
-dummy_package.egg-info/top_level.txt
